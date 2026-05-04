@@ -1,0 +1,6 @@
+flask
+flask-cors
+PyPDF2
+python-docx
+sentence-transformers
+torch
